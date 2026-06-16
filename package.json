@@ -1,0 +1,7 @@
+{
+  "name": "competitive-benchmarker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Athlete Site Competitive Benchmarker Pixie (T031)",
+  "engines": { "node": ">=18" }
+}
